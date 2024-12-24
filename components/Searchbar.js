@@ -35,10 +35,10 @@ export default function Searchbar({ onSearch }) {
         weatherFuture,
       });
 
-      // Clear any previous error message
+     
       setErrorMessage("");
     } catch (error) {
-      // Set an error message instead of alert
+      
       setErrorMessage("City not found or API error!");
     }
   };
