@@ -1,5 +1,5 @@
 # WeatherFinder
-Demo: [here](https://weather-finder-2024.vercel.app/) .
+Demo: [link](https://weather-finder-2024.vercel.app/) .
 
 The Weather Finder application is a React-based web app that allows users to get instant weather updates for any city. The app provides real-time weather data, including current conditions, temperature, humidity, and a 5-day weather forecast. Users can enter a city name, and the app will fetch data from the WeatherAPI to display accurate weather information.
 
